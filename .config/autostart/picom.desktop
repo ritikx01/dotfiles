@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=picom -b --config ~/.config/picom/picom.conf
+Name=picom
+Type=Application
+Hidden=False
