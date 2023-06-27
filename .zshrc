@@ -1,8 +1,8 @@
 export PATH=/home/kali/.cargo/bin:$PATH
 
-#TMUX symbol display
-#export LC_ALL=en_IN.UTF-8
-export LANG=en_IN.UTF-8
+# TMUX symbol display
+# export LC_ALL=en_IN.UTF-8
+# export LANG=en_IN.UTF-8
 
 # Golang vars
 export GOROOT=/usr/local/go
